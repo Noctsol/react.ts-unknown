@@ -11,6 +11,10 @@
         {
             "label": "Contact",
             "href": "/contact"
+        },
+        {
+            "label": "Something",
+            "href": "/something"
         }
     ]
 }

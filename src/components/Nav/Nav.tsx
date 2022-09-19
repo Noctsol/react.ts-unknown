@@ -3,8 +3,6 @@ import style from "./Nav.module.css"
 import logo from './random.svg'
 import {links} from "./links.json"
 
-var maxHeight = "50px";
-
 type Link = {
     label:string;
     href:string;
