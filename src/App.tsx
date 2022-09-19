@@ -24,11 +24,14 @@ import Nav from './components/Nav/Nav'
 //   );
 // }
 
+
+
 function App() {
   return (
     <>
-      <Nav />
-      <h1>This is mah code</h1>
+      <Nav maxHeight="200px" maxWidth="100%" height="500px"/>
+      <h1>Content Header</h1>
+      <div>Content body</div>
 
     </>
   );

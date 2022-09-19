@@ -13,5 +13,18 @@
 
 .logo_container {
     font-weight: 500;
-    cursor:pointer
+    cursor:pointer;
+    height: 100%
+}
+
+.logo_image {
+    width: 100%;
+    height: 100%;
+}
+
+/*Globally applies to all images within the header once imported */
+img {
+    width: 100%;
+    height: 100%;
+
 }
