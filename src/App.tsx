@@ -29,7 +29,7 @@ import Nav from './components/Nav/Nav'
 function App() {
   return (
     <>
-      <Nav maxHeight="200px" maxWidth="100%" height="500px"/>
+      <Nav height="50px"/>
       <h1>Content Header</h1>
       <div>Content body</div>
 
